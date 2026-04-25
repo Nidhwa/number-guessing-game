@@ -46,7 +46,7 @@ python guessing_game.py
   ## Repository Contents
 project-folder/
 │
-├── guessing_game.py   # Main game source code
+├── NUMBER GUESSING GAME.py   # Main game source code
 ├── README.md          # Project documentation
 └── report.pdf         # Final 1–2 page project report
 
