@@ -1,4 +1,4 @@
-# number-guessing-game
+# NUMBER GUESSING GAME
 Final project for Python programming: Number Guessing Game
 
 The computer generates a random number, and the player attempts to guess it based on feedback.
